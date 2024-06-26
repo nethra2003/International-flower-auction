@@ -1,0 +1,21 @@
+.rightbox{
+    background-color: #fbe8ec;
+    width: 60%;
+    margin-left: 1%;
+}
+#rline{
+    font-size: 8rem;
+    text-decoration:underline double #3e0817 0.18rem;
+    color: #590d22;
+    position: relative;
+    top:-2.8%;
+    left: 30%;
+}
+#logo{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #2f0511;
+    position: relative;
+    top: 2%;
+    padding-left: 80%;
+}
