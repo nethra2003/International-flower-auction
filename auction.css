@@ -1,0 +1,101 @@
+.box1{
+    height: 400px;
+    width: 95%;
+    background-image: url('backauction.jpg');
+    margin-left: 3%;
+    color: white;
+    font-size: 5rem;
+    align-content: center;
+}
+.box1 p{
+    margin-left: 28%;
+}
+/* end box1 */
+.box2{
+    display: flex;
+    height: 300px;
+    width: 95%;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.box2l{
+    width: 60%;
+    margin-right: 1%;
+}
+
+#l12l{
+    color: #800f2f;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+#l22l{
+    color: #ffb3c1;
+    font-size: 1.75rem;
+    font-weight: bolder;
+}
+#l32l{
+    color: rgb(71, 69, 69);
+    font-size: 1.3rem;
+}
+#rose2r{
+    height: 300px;
+    width: 130%;
+}
+/* end box2 */
+.box3{
+    display: flex;
+    background-color: #ffd6dd;
+    width: 95%;
+    height: 250px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+.box3l{
+    width: 70%;
+    margin-right:1.5% ;
+    margin-left: 1.5%;
+}
+#l13l{
+    color: #590d22;
+    font-weight: bold;
+    font-size: 2.3rem;
+}
+#l23l{
+    font-size: 1.4rem;
+}
+.box3r{
+    align-content: center;
+    font-size: 1.2rem;
+    margin-right: 1%;
+}
+/* end of box3 */
+.box4{
+    width: 90%;
+    height: 100px;
+    margin-left: 4%;
+    /* background-color: #e9cfd4; */
+}
+.box4 p{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-top: 2%;
+    color: #590d22;
+}
+/* footer */
+.footer{
+    background-color: #a4133c;
+    height: 400px;
+    padding-top: 1%;
+    padding-left: 2%;
+}
+.footer p{
+    color: white;
+    font-size: 1.2rem;
+}
+#contact{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.cont{
+    display: flex;
+}
