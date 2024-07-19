@@ -41,12 +41,21 @@
     height: 300px;
     width: 130%;
 }
+.flower{
+    text-decoration: none;
+    font-size: 2rem;
+    color: #590d22;
+}
+.flowerinfo{
+    padding-top: 2%;
+    padding-left: 5%;
+}
 /* end box2 */
 .box3{
     display: flex;
     background-color: #ffd6dd;
     width: 95%;
-    height: 250px;
+    height: 300px;
     margin-top: 2%;
     margin-left: 2%;
 }
@@ -71,7 +80,7 @@
 /* end of box3 */
 .box4{
     width: 90%;
-    height: 100px;
+    height: 150px;
     margin-left: 4%;
     /* background-color: #e9cfd4; */
 }
