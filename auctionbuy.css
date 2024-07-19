@@ -1,0 +1,34 @@
+.rightbox{
+    margin-left: 4%;
+    font-size: 1.5rem;
+    margin-left: 1%;
+    position: relative;
+    left: 33%;
+    width: 65%;
+}
+.res{
+    font-size: 1.1rem;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #590d22;
+}
+table, th, td {
+    border: 1px solid #590d22;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #ffb3c1;
+}
+#head{
+    color: #590d22;
+}
+#head1{
+    color: #590d22;
+    font-weight: bolder;
+    font-size: 2rem;
+}
