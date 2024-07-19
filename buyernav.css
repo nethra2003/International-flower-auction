@@ -1,0 +1,43 @@
+.box{
+    display: flex;
+}
+.leftbox{
+    background-image: url("backauction.jpg");
+    height: 870px;
+    background-size: cover;
+    width: 30%;
+    position: fixed;
+}
+.heading{
+    text-decoration: none;
+    font-size: 5rem;
+    color: #420a1a;
+    padding-left: 23%;
+    padding-right: 20%;
+    position: relative;
+    border: 4px solid #f9d6d6;
+    font-weight: BOLDER;
+}
+.box1{
+    padding-top: 12%;
+}
+#l1,#l2,#l3,#l4{
+    font-size: 3rem;
+    position: relative;
+    top: 50px;
+    text-decoration: none;
+    text-decoration: underline #f9d6d6 0.2rem;
+    color: #fcfcfc;
+    margin: 5% 5% 5% 5%;
+}
+
+#logout{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    border: 2px solid rgb(55, 12, 12);
+    padding: 3% 3% 3% 3%;
+    position: relative;
+    top: 8%;
+    left: 30%;
+}
