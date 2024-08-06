@@ -1,0 +1,41 @@
+.navbar{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background-color: #ffb3c1;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+.navmiddle{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    font-size: 1.5rem;
+    color: #590d22;
+}
+.logo{
+    color: black;
+    align-content:center ;
+    font-size: 3rem;
+    margin-left: 2%;
+}
+.login{
+    color: #590d22;
+    font-size: 2rem;
+    align-content: center;
+    margin-right: 3%;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid #800f2f;
+}
+.home,.auction,.buying,.supplying,.contact,.logo,.login{
+    text-decoration: none;
+    color: #590d22;
+    align-content: center;
+}
