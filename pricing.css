@@ -1,0 +1,44 @@
+.img1{
+    background-image: url("pricingimg.jpg");
+    height: 500px;
+    width: 50%;
+    background-size: cover;
+    position: relative;
+}
+.start{
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: white;
+    width: 40%;
+    color: #800f2f;
+    margin: 2% 2% 2% 2%;
+}
+#check,#result{
+    font-size: 2rem;
+    margin-left: 8%;
+}
+.select{
+    width: 70%; 
+    height: 45px; 
+    font-size: 1.8rem; 
+    color: #800f2f;
+    margin-left: 20%;
+    background-color: #fff0f3;
+    border: transparent;
+}
+.selprice{
+    background-color: #fff0f3;
+    width: 325px;
+    height: 75px;
+    align-content: center;
+    margin-left: 11%;
+}
+.result{
+    font-size: 1.5rem;
+    background-color: #fff0f3;
+    width: 60%;
+    align-content: center;
+    margin-left:11%;
+}
