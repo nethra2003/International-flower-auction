@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Login | IFA- International Flower Auction</title>
+    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="navbar.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+
+</head>
+<body style="background-color: #fff0f3;">
+    <div class="logbox">
+        <div class="box1">
+            <a href="home.html" id="back"><i class="fa-solid fa-arrow-left"></i></a>
+            <p>LOGIN</p>
+            
+        </div>
+        <div class="box2">
+            <form action="http://localhost/ifa/login.php" method="POST">
+                <p class="fullname">FullName</p>
+                <input type="text" id="fullname" name="fullname" required>
+                <p class="email">EmailId</p>
+                <input type="email" id="email" name="email" required>
+                <p class="role">Role</p>
+                <input type="text" id="role" name="role" required><br><br><br><br>
+                <button type="submit" id="submit">LOGIN</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
