@@ -1,0 +1,35 @@
+.rightbox{
+    background-color: #fbe8ec;
+    width: 60%;
+    margin-left: 1%;
+    position: relative;
+    left: 33%;
+}
+.flower{
+    text-decoration: none;
+    font-size: 2rem;
+    color: #590d22;
+}
+.flowerinfo{
+    padding-top: 2%;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #590d22;
+}
+table, th, td {
+    border: 1px solid #590d22;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    background-color: #ffb3c1;
+}
+#head{
+    color: #590d22;
+    font-size: 2rem;
+    font-weight: bolder;
+}
