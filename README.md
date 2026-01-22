@@ -1,4 +1,4 @@
-🌸 International Flower Auction
+# International Flower Auction
 
 DBMS Project
 
